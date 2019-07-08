@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TeProject</string>
+    <array name="service">
+        <item>Amazon Services</item>
+        <item>Cloud</item>
+        <item>Azure MS</item>
+        <item>Web Scrapping</item>
+    </array>
+</resources>

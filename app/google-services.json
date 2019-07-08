@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "223712954323",
+    "firebase_url": "https://teproject-620e1.firebaseio.com",
+    "project_id": "teproject-620e1",
+    "storage_bucket": "teproject-620e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223712954323:android:ba9a941ed2d84dc7",
+        "android_client_info": {
+          "package_name": "com.example.android.teproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223712954323-ebap4m2rcfn1pif39002p1643h1t1itv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.teproject",
+            "certificate_hash": "5f4d997e1615666c1da1467047a4f660df3c5f22"
+          }
+        },
+        {
+          "client_id": "223712954323-uu0fo40hbh1lpoq0njr3ct9o6frr9dvl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKQ254VNKqXVewekliwZGSFLM5oHTRHT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223712954323-uu0fo40hbh1lpoq0njr3ct9o6frr9dvl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
